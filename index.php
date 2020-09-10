@@ -14,6 +14,5 @@
   <p><?php _e("Waa ka xumahay qoraalka ma helin.", "aqoonkaal") ?>
 <?php endif; ?>
 
-
 </body>
 </html>
