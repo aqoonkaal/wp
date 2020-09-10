@@ -1,3 +1,3 @@
-# aqoonkaal2020
+# WordPress ku baro Af-Soomaali
 
-WordPress ku baro Af-Soomaali
+Halkan waxaad ka daalacan kartaa xeerarka Naqshadda WordPress.
