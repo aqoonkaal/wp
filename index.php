@@ -4,7 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Naqshadda Tababarka</title>
 </head>
+<body>
 
 <p> Cinwaanka qoraalka koowaad </p>
+
 </body>
 </html>
